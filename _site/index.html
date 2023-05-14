@@ -125,13 +125,21 @@
   <div class="collapse navbar-collapse" id="main-navbar">
     <ul class="navbar-nav ml-auto">
           <li class="nav-item">
-            <a class="nav-link" href="/aboutus">About US</a>
+            <a class="nav-link" href="/animals">See animals</a>
+          </li>
+          <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">Resources</a>
+            <div class="dropdown-menu dropdown-menu-right" aria-labelledby="navbarDropdown">
+                  <a class="dropdown-item" href="/foster">Become a foster</a>
+                  <a class="dropdown-item" href="/aboutus">About US</a>
+            </div>
+          </li>
+        
+          <li class="nav-item">
+            <a class="nav-link" href="/woofstock2023">Woofstock 2023</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="/animals">See our animals</a>
-          </li>
-          <li class="nav-item">
-            <a class="nav-link" href="http://go.bfarak.com/adopt">Apply Now</a>
+            <a class="nav-link" href="/adopt">Adopt</a>
           </li>
         <li class="nav-item">
           <a class="nav-link" id="nav-search-link" href="#" title="Search">
@@ -168,6 +176,13 @@
     var searchjson = '[ \
        \
         { \
+          "title"    : "Woofstock 2023", \
+          "category" : "woofstockevent", \
+          "url"      : "/2023-05-13-woofstock/", \
+          "date"     : "May 13, 2023" \
+        }, \
+       \
+        { \
           "title"    : "Sample blog post", \
           "category" : "test", \
           "url"      : "/2020-02-28-test-markdown/", \
@@ -183,9 +198,23 @@
         }, \
        \
         { \
+          "title"    : "Adopt", \
+          "category" : "page", \
+          "url"      : "/adopt/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
           "title"    : "Our Animals", \
           "category" : "page", \
           "url"      : "/animals/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Become a Foster", \
+          "category" : "page", \
+          "url"      : "/foster/", \
           "date"     : "January 1, 1970" \
         }, \
        \
@@ -200,6 +229,13 @@
           "title"    : "Tag Index", \
           "category" : "page", \
           "url"      : "/tags/", \
+          "date"     : "January 1, 1970" \
+        }, \
+       \
+        { \
+          "title"    : "Woofstock 2023!", \
+          "category" : "page", \
+          "url"      : "/woofstock2023/", \
           "date"     : "January 1, 1970" \
         } \
        \
@@ -264,6 +300,63 @@
 
 <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
 <ul class="posts-list list-unstyled" role="list">
+  
+  <li class="post-preview">
+    <article>
+      
+
+      
+
+      <a href="http://0.0.0.0:4000/2023-05-13-woofstock/">
+        <h2 class="post-title">Woofstock 2023</h2>
+
+        
+          <h3 class="post-subtitle">
+          Join us on July 29th, 2023 at American Legion Post 28
+          </h3>
+        
+      </a>
+
+      <p class="post-meta">
+        
+        Posted on May 13, 2023
+      </p>
+
+      
+
+      
+      
+
+      <div class="post-entry">
+        
+        Please join Best Friends Animal Rescue (BFAR) in July 2023 for our 1st annual Woofstock charity event! Best Friends Animal Rescue is a 501(c)3 non-profit founded in order to serve the State of Alaska by bringing in unwanted, homeless, or sick animals and assist loving families in finding their next...
+        
+        
+          <a href="http://0.0.0.0:4000/2023-05-13-woofstock/" class="post-read-more">[Read&nbsp;More]</a>
+        
+      </div>
+      
+
+      
+      <div class="blog-tags">
+        <span>Tags:</span>
+        <!-- role="list" needed so that `list-style: none` in Safari doesn't remove the list semantics -->
+        <ul class="d-inline list-inline" role="list">
+          
+          <li class="list-inline-item">
+            <a href="http://0.0.0.0:4000/tags#woofstock">woofstock</a>
+          </li>
+          
+          <li class="list-inline-item">
+            <a href="http://0.0.0.0:4000/tags#event">event</a>
+          </li>
+          
+        </ul>
+      </div>
+      
+
+    </article>
+  </li>
   
   <li class="post-preview">
     <article>

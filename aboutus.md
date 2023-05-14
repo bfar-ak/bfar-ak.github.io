@@ -10,7 +10,8 @@ Let us help you find your next companion and help us rescue animals in need!
 
 ### Links
 
-* PetFinder: [http://bfarak.petfinder.com/](http://bfarak.petfinder.com/)
+* [See animals available for adoption on our website](/animals)
+* [See us on PetFinder](http://bfarak.petfinder.com/)
 
 ### Contact Us
 
