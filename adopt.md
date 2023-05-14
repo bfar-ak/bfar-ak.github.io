@@ -2,12 +2,11 @@
 layout: page
 title: Adopt
 subtitle: Adopt a new friend today!
+cover-img: /assets/img/adopt-a-friend.jpg
 # redirect_to: http://go.bfarak.com/adopt
 ---
 
-![adopt](/assets/img/adopt-a-friend.jpg){: .mx-auto.d-block :}
-
-
+[Apply here!](http://go.bfarak.com/adopt)
 
 ### Adoption Process
 

@@ -2,13 +2,13 @@
 layout: page
 title: Help out
 subtitle: Other ways you can help us
+cover-img: /assets/img/transporters-needed.jpg
 ---
 
 Can't donate money, adopt, or foster? There are plenty of other ways to help.
 
 ### Transport
 
-![transporters-needed](/assets/img/transporters-needed.jpg)
 
 We need volunteers to transport animals:
 * to and from the airport

@@ -2,11 +2,10 @@
 layout: page
 title: Become a Foster
 subtitle: Want to help out? Volunteer to become a foster today!
+cover-img: /assets/img/dogs.jpg
 ---
 
 Becoming a foster is a great way to help out animals in need.
-
-![dogs](/assets/img/dogs.jpg){: .mx-auto.d-block :}
 
 ### Apply
 
