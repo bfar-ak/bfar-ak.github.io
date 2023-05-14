@@ -1,24 +1,10 @@
 ---
 layout: page
-title: About Us
-# subtitle: Why you'd want to go on a date with our animals
+title: Donate
+subtitle: Donate money or time to help animals in need
 ---
 
-Best Friends Animal Rescue is a registered 501(c)3 non-profit serving the State of Alaska.
-
-Let us help you find your next companion and help us rescue animals in need!
-
-### Links
-
-* [See animals available for adoption on our website](/animals)
-* [See us on PetFinder](http://bfarak.petfinder.com/)
-* [Apply to adopt today](/adopt)
-
-### Contact Us
-
-* Adoptions: [adoptions@bfarak.org](mailto:adoptions@bfarak.org)
-* Website: [admin@bfarak.org](mailto:admin@bfarak.org)
-* Mail: <b>PO Box 870601, Wasilla, AK, United States, 99687</b>
+Can't spare the time but want to contribute?
 
 ### Donations
 
@@ -34,9 +20,10 @@ Let us help you find your next companion and help us rescue animals in need!
 | <img src="/assets/img/venmo.png" alt="venmo" title="Venmo" width="300px" class=".mx-auto.d-block"/> | <img src="/assets/img/paypal.png" alt="paypal" title="PayPal" width="200px" class=".mx-auto.d-block"/><br/><br/>![paypallogo](/assets/img/paypallogo.png "PayPal Logo"){: .mx-auto.d-block :} | <img src="/assets/img/cash-app.png" alt="cash-app" title="Cash App" width="300px" class="mx-auto.d-block"/> |
 
 
-### Want to help?
+### Other ways to help
 
 * [Adopt a new friend](/adopt)
 * [Become a foster](/foster)
 * [Other ways](/help)
+
 

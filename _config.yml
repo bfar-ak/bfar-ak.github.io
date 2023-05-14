@@ -21,11 +21,13 @@ author: BFAR AK
 
 navbar-links:
   See animals: "animals"
-  Resources:
-    - Become a foster: "foster"
-    - About US: "aboutus"
   Woofstock 2023: "woofstock2023"
-  Adopt: "adopt"
+  Help out:
+    - Adopt: "adopt"
+    - Become a foster: "foster"
+    - Donate: "donate"
+    - Other ways: "help"
+    - About US: "aboutus"
 
 ################
 # --- Logo --- #
@@ -63,7 +65,8 @@ social-network-links:
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
-#  instagram: deanat78
+  instagram: bestfriendsanimalrescueak
+#  tiktok: bestfriendsanimalrescue
 #  spotify: yourname
 #  telephone: +14159998888
 #  steam: deanat78
