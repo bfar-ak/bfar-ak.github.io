@@ -7,6 +7,10 @@ comments: false
 cover-img: /assets/img/woofstock.png
 ---
 
+[Tickets available now!](https://www.eventbrite.com/e/634895679067)
+
+Want to help by sponsoring or donating? [Do that here](https://forms.gle/feDuSwy8MZZoaFik6)
+
 Please join Best Friends Animal Rescue (BFAR) in July 2023 for our 1st annual Woofstock
 charity event! Best Friends Animal Rescue is a 501(c)3 non-profit founded in order to serve
 the State of Alaska by bringing in unwanted, homeless, or sick animals and assist loving
