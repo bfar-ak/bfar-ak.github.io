@@ -4,6 +4,7 @@ title: Woofstock 2023
 subtitle: Join us on July 29th, 2023 at American Legion Post 28
 tags: [woofstock,event]
 comments: false
+cover-img: /assets/img/woofstock.png
 ---
 
 Please join Best Friends Animal Rescue (BFAR) in July 2023 for our 1st annual Woofstock
