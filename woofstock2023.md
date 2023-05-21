@@ -2,7 +2,7 @@
 layout: page
 title: Woofstock 2023!
 subtitle: Join us for the 1st Annual Woofstock on July 29th, 2023 at American Legion Post 28
-cover-img: /assets/img/woofstock.png
+cover-img: /assets/img/woofstock-wide.png
 ---
 
 [Tickets available here!](https://www.eventbrite.com/e/634895679067)

@@ -23,11 +23,11 @@ navbar-links:
   See animals: "animals"
   Woofstock 2023: "woofstock2023"
   Help out:
-    - Adopt: "adopt"
     - Become a foster: "foster"
     - Donate: "donate"
     - Other ways: "help"
     - About US: "aboutus"
+  Adopt: "adopt"
 
 ################
 # --- Logo --- #
