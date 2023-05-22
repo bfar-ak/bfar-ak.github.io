@@ -5,10 +5,10 @@ subtitle: Join us for the 1st Annual Woofstock on July 29th, 2023 at American Le
 cover-img: /assets/img/woofstock-wide.png
 ---
 
-[Tickets available here!](https://www.eventbrite.com/e/634895679067)
+[Tickets available here!](https://www.eventbrite.com/e/634895679067){:class="btn btn-large btn-success"}
 
 
-[Submit your pledge for support here!](https://docs.google.com/forms/d/e/1FAIpQLSfwj33cV6w1f-XBR3i6OQdRLCDS6CDyaYEm3mtShNgieDOQbg/viewform)
+[Submit your pledge for support here!](https://docs.google.com/forms/d/e/1FAIpQLSfwj33cV6w1f-XBR3i6OQdRLCDS6CDyaYEm3mtShNgieDOQbg/viewform){:class="btn btn-large btn-primary"}
 
 Please join Best Friends Animal Rescue (BFAR) in July 2023 for our 1st annual Woofstock
 charity event! Best Friends Animal Rescue is a 501(c)3 non-profit founded in order to serve

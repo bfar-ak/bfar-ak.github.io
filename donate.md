@@ -3,7 +3,7 @@ layout: page
 title: Donate
 subtitle: Donate money or time to help animals in need
 ---
-
+{: .box-note}
 Can't spare the time but want to contribute?
 
 ### Donations

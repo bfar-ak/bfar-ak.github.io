@@ -5,11 +5,12 @@ subtitle: Want to help out? Volunteer to become a foster today!
 cover-img: /assets/img/dogs.jpg
 ---
 
+{: .box-note}
 Becoming a foster is a great way to help out animals in need.
 
 ### Apply
 
-[Apply Here!](https://airtable.com/shrrJUZiKkycIVLJ6?fbclid=IwAR0aD0lTeZNg2V_XcJp8e3K0Lnw6q531Flr2lUaLzNhvKA9uOHudKaab1yI)
+[Apply Here!](https://airtable.com/shrrJUZiKkycIVLJ6?fbclid=IwAR0aD0lTeZNg2V_XcJp8e3K0Lnw6q531Flr2lUaLzNhvKA9uOHudKaab1yI){:class="btn btn-large btn-success"}
 
 
 ### Other ways to help

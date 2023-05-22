@@ -6,7 +6,7 @@ cover-img: /assets/img/adopt-a-friend.jpg
 # redirect_to: http://go.bfarak.com/adopt
 ---
 
-[Apply here!](http://go.bfarak.com/adopt)
+[Apply here!](http://go.bfarak.com/adopt){:class="btn btn-success btn-lg"}
 
 ### Adoption Process
 

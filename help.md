@@ -5,7 +5,17 @@ subtitle: Other ways you can help us
 cover-img: /assets/img/transporters-needed.jpg
 ---
 
+{: .box-note}
 Can't donate money, adopt, or foster? There are plenty of other ways to help.
+
+### Non-money donations
+
+We need supplies to help our friends in need:
+* Dog food
+* Potty pads
+* Leashes
+* Crates
+* etc
 
 ### Transport
 
