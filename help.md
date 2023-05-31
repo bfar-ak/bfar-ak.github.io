@@ -17,6 +17,12 @@ We need supplies to help our friends in need:
 * Crates
 * etc
 
+### Mountain Mutts
+
+Looking for a hiking buddy or a picnic partner?
+
+Request to be a part of our [Mountain Mutts](/mountainmutts) program.
+
 ### Transport
 
 
