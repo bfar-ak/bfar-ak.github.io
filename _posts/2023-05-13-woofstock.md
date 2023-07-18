@@ -18,7 +18,7 @@ families in finding their next best friend. The rescue is statewide, and **finds
 homes for more than 500 dogs and puppies annually.**
 
 We're excited to spend a fantastic evening filled with music, vendors, and food. Plus, your
-pups are invited to join us! We'll be hosting silent and live auctions filled with spectacular
+pups are invited to join us! We'll be hosting silent auctions filled with spectacular
 items.
 
 How you can help:
