@@ -5,27 +5,7 @@ subtitle: Join us for the 2nd Annual Woofstock on July 13th, 2024
 cover-img: /assets/img/woofstock2024-wide.png
 ---
 
-<div id="eventbrite-widget-container-836883028667"></div>
-
-<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
-
-<script type="text/javascript">
-    var exampleCallback = function() {
-        console.log('Order complete!');
-    };
-
-    window.EBWidgets.createWidget({
-        // Required
-        widgetType: 'checkout',
-        eventId: '836883028667',
-        iframeContainerId: 'eventbrite-widget-container-836883028667',
-
-        // Optional
-        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
-        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
-    });
-</script>
-
+[Tickets available here!](https://woofstock2024.eventbrite.com){:class="btn btn-large btn-success"}
 
 
 [Submit your pledge for support here!](https://forms.gle/Fvd8bMkTMnZq71eU8){:class="btn btn-large btn-primary"}
@@ -59,6 +39,29 @@ We are happy to pick up donations from your location or they can
 be mailed to:
 
 **PO Box 870601, Wasilla, AK 99687**
+
+## Tickets
+
+<div id="eventbrite-widget-container-836883028667"></div>
+
+<script src="https://www.eventbrite.com/static/widgets/eb_widgets.js"></script>
+
+<script type="text/javascript">
+    var exampleCallback = function() {
+        console.log('Order complete!');
+    };
+
+    window.EBWidgets.createWidget({
+        // Required
+        widgetType: 'checkout',
+        eventId: '836883028667',
+        iframeContainerId: 'eventbrite-widget-container-836883028667',
+
+        // Optional
+        iframeContainerHeight: 425,  // Widget height in pixels. Defaults to a minimum of 425px if not provided
+        onOrderComplete: exampleCallback  // Method called when an order has successfully completed
+    });
+</script>
 
 ## Sponsors
 
