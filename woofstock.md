@@ -31,10 +31,7 @@ cover-img: /assets/img/woofstock2024-wide.png
 [Submit your pledge for support here!](https://forms.gle/Fvd8bMkTMnZq71eU8){:class="btn btn-large btn-primary"}
 
 Please join Best Friends Animal Rescue (BFAR) in July 2024 for our 2nd annual Woofstock
-charity event! Best Friends Animal Rescue is a 501(c)3 non-profit founded in order to serve
-the State of Alaska by bringing in unwanted, homeless, or sick animals and assist loving
-families in finding their next best friend. The rescue is statewide, and **finds loving forever
-homes for more than 500 dogs and puppies annually.**
+charity event! Woofstock 2024 will be held on July 13th, 2024 at American Legion Post 28 (7001 Brayton Drive Anchorage, AK 99507)
 
 We're excited to spend a fantastic evening filled with music, vendors, and food. Plus, your
 pups are invited to join us! We'll be hosting silent auctions filled with spectacular
