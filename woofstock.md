@@ -20,7 +20,7 @@ items.
 How you can help:
 * A donation of something spectacular for our auctions
 * Purchase admission to the event (event website coming soon!)
-* Become a vendor and sell your goods at the event ($75 per booth;
+* Become a vendor and sell your goods at the event ($75 per booth)
 * Become an event sponsor!
 
 [Submit your pledge for support here!](https://forms.gle/Fvd8bMkTMnZq71eU8){:class="btn btn-large btn-primary"}
