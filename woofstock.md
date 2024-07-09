@@ -2,7 +2,7 @@
 layout: page
 title: Woofstock 2024!
 subtitle: Join us for the 2nd Annual Woofstock on July 13th, 2024
-cover-img: /assets/img/woofstock2024-wide.png
+cover-img: /assets/img/woofstock2024-wide.jpg
 ---
 
 [Tickets available here!](https://woofstock2024.eventbrite.com){:class="btn btn-large btn-success"}
@@ -65,4 +65,6 @@ be mailed to:
 
 ## Sponsors
 
-Coming soon
+![Lynden](/assets/img/woofstock/lynden-logo-transparent.png)
+![955](/assets/img/woofstock/955-logo-blk.png)
+
